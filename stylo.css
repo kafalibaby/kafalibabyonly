@@ -1,0 +1,14 @@
+.barra1{
+	background: #d8ffb9;
+	color: black
+}
+.barra2{
+	background: #b9d8ff;
+}
+.carousel-inner img {
+  margin: auto;
+  padding: 20px;
+}
+.tprod{
+	text-align: center;
+}
